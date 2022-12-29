@@ -198,7 +198,7 @@ admin.site.register(Student,StudentAdmin)
 ## OUTPUT
 
 ### Admin page
-![Server side output](images/employee.png)
+![Server side output](./images/employee.png)
 
 ## RESULT
 Database created successfully
