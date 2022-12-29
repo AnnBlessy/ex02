@@ -164,7 +164,7 @@ STATICFILES_DIRS=[
     os.path.join(BASE_DIR,'static')
 ]
 ## Models code
-' ' '
+```
 
 from django.db import models
 
@@ -194,11 +194,11 @@ from .models import Student,StudentAdmin
 
 admin.site.register(Student,StudentAdmin)
 
-'''
+```
 ## OUTPUT
 
 ### Admin page
-![Server side output](./images/employee.png)
+![Emptable](images/employee.png)
 
 ## RESULT
 Database created successfully
