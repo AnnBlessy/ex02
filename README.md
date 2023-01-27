@@ -7,6 +7,8 @@ To develop a Django application to store and retrieve data from a database using
 
 ![Emptable](images/ER.png)
 
+
+
 ## DESIGN STEPS
 
 ### STEP 1:
@@ -50,6 +52,8 @@ from .models import Student,StudentAdmin
 admin.site.register(Student,StudentAdmin)
 
 ```
+
+
 ## OUTPUT
 
 ### Admin page
